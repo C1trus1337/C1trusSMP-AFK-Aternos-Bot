@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Dream",
+    "username": "ItzRealMe",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "C1trusSMP.aternos.me",
-    "port": 32171,
+    "ip": "skiterpop-DUJ3.aternos.me",
+    "port": 25882,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "suckmy1337"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
-        "Ай джрим",
-        "C1trusSMP лучший сервер клянусь мамой!",
-        "Майнкрафт это моя жизнь!"
+        "ItzRealMe Npc Test"
       ]
     },
     "chat-log": true,
