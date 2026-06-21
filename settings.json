@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ItzRealMe",
+    "username": "PrimeSMPbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "skiterpop-DUJ3.aternos.me",
-    "port": 25882,
+    "ip": "_Prime_SMP_.aternos.me",
+    "port": 59727,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 1200,
       "messages": [
